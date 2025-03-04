@@ -1,0 +1,11 @@
+.outer_container{
+    border: dotted rgb(2, 100, 2);
+}
+.inner_most_container{
+    padding: 20px;
+    margin: 5%;
+    border: solid rgb(255, 0, 191);
+}
+h1{
+    text-align: center;
+}
